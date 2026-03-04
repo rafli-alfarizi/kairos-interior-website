@@ -1,0 +1,14 @@
+{
+  "HomePage": {
+    "title": "Build Your Dream Home",
+    "subtitle": "Professional interior design services tailored to your lifestyle",
+    "contactSales": "Contact Sales"
+  },
+  "Navigation": {
+    "home": "Home",
+    "projects": "Projects",
+    "blog": "Blog",
+    "contact": "Contact",
+    "estimator": "Estimate Cost"
+  }
+}

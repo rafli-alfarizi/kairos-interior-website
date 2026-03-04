@@ -1,0 +1,14 @@
+{
+  "HomePage": {
+    "title": "Wujudkan Rumah Impian Anda",
+    "subtitle": "Layanan desain interior profesional yang disesuaikan dengan gaya hidup Anda",
+    "contactSales": "Hubungi Sales"
+  },
+  "Navigation": {
+    "home": "Beranda",
+    "projects": "Proyek",
+    "blog": "Blog",
+    "contact": "Kontak",
+    "estimator": "Estimasi Biaya"
+  }
+}
